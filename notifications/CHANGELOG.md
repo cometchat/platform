@@ -1,3 +1,14 @@
+# Notifications v1.9.6 | 2026-09-15
+## New
+- None
+
+## Enhancements
+- @mention notifications now work for groups having over 1000 members.
+
+## Fixes
+- None
+<br/>
+
 # Notifications v1.9.5 | 2026-09-02
 ## New
 - Added support for subscribing to threads, allowing users to receive notifications for every reply in threads they have joined while remaining quiet in threads they have not subscribed to. The `Replies` push preference now accepts `Notify for subscribed threads`
